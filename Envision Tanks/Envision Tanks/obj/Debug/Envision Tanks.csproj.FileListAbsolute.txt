@@ -1,0 +1,19 @@
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Resources\blue_cannon.png
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Resources\blue_tank.png
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Resources\green_cannon.png
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Resources\green_tank.png
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Resources\projectile_black.png
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Resources\projectile_white.png
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Resources\red_cannon.png
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Resources\red_tank.png
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Resources\yellow_cannon.png
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Resources\yellow_tank.png
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Envision.Tanks.exe.config
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Envision.Tanks.exe
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\bin\Debug\Envision.Tanks.pdb
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\obj\Debug\Envision.Tanks.frmGame.resources
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\obj\Debug\Envision.Tanks.Properties.Resources.resources
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\obj\Debug\Envision Tanks.csproj.GenerateResource.cache
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\obj\Debug\Envision.Tanks.exe
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\obj\Debug\Envision.Tanks.pdb
+E:\work\bewerbungen\ForBachelor\envision\Envision Tanks\Envision Tanks\obj\Debug\Envision Tanks.csprojAssemblyReference.cache

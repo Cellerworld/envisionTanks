@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Weapons>
+  <Weapon>
+    <name>TankRifle</name>
+    <projectileVisualFile>Resources\\projectile_white.png</projectileVisualFile>
+    <size>5</size>
+    <WeaponStats>
+      <maxAngle></maxAngle>
+      <minAngle></minAngle>
+      <ammo></ammo>
+      <force>
+        <dir>
+          <x>0</x>
+          <y>0</y>
+        </dir>
+        <magnitude> 25</magnitude>
+        <decline>0.99</decline>
+      </force>
+      <dmg>10</dmg>
+      <mass>0.1</mass>
+    </WeaponStats>
+    <effect></effect>
+  </Weapon>
+  <Weapon>
+    <name> BallisticRifle</name>
+    <projectileVisualFile>Resources\\projectile_white.png</projectileVisualFile>
+    <size>15</size>
+    <WeaponStats>
+      <maxAngle></maxAngle>
+      <minAngle></minAngle>
+      <ammo></ammo>
+      <force>
+        <dir>
+          <x>0</x>
+          <y>0</y>
+        </dir>
+        <magnitude>500</magnitude>
+        <decline>0.9</decline>
+      </force>
+      <dmg>30</dmg>
+      <projectileMass>5</projectileMass>
+      <effect></effect>
+    </WeaponStats>
+  </Weapon>
+  <Weapon>
+    <name>FakeTankRifle</name>
+    <projectileVisualFile>Resources\\projectile_white.png</projectileVisualFile>
+    <size>10</size>
+    <WeaponStats>
+      <maxAngle></maxAngle>
+      <minAngle></minAngle>
+      <ammo></ammo>
+      <force>
+        <dir>
+          <x>0</x>
+          <y>0</y>
+        </dir>
+        <magnitude> 250</magnitude>
+        <decline>0.95</decline>
+      </force>
+      <dmg>0</dmg>
+      <projectileMass>3</projectileMass>
+    </WeaponStats>
+    <effect>FakeTank</effect>
+  </Weapon>
+</Weapons>
